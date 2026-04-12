@@ -1,0 +1,11 @@
+site_theme               : "default"
+name                     : &name "Kayla Ingebretsen"
+description              : &description "Academic Portfolio" 
+url                      : https://kayinge17.github.io 
+repository               : "https://github.com/kayinge17?tab=repositories"
+
+author:
+  location                : "Oregon"
+  school                  : "Southern New Hampshire University"
+  email                   : "kayinge17@gmail.com"
+  
