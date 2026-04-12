@@ -257,7 +257,6 @@
   </p>
     
   </div>
-</div>
 
 <div class="section bottom">
   <h2>Professional Self-Assessment</h2>
