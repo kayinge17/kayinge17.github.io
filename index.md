@@ -10,7 +10,7 @@
   </div>
 
   <div class="section">
-    <h2><a href="https://github.com/kayinge17/CS-320-C_A_T.git target="_blank"">Artifact 2</a></h2> 
+    <h2><a href="https://github.com/kayinge17/CS-320-C_A_T.git" target="_blank">Artifact 2</a></h2> 
     <p>
     The selected artifact was created in CS 320: Software Testing and Automation
     in October of 2024. The original program was designed to create and manage
@@ -23,7 +23,7 @@
 </div>
 
 <div class="section">
-  <h2> <a href="https://youtu.be/xmt1T2k5ito target="_blank"">Code Review</a></h2>
+  <h2> <a href="https://youtu.be/xmt1T2k5ito" target="_blank">Code Review</a></h2>
   <p>
     This code review evaluates both artifacts, identifying strengths, weaknesses, and opportunities for improvement.
   </p>
@@ -32,7 +32,7 @@
 
 <div class="row-three">
  <div class="section">
-  <h2><a href="https://github.com/kayinge17/Enhancement-1-CS-300.git target="_blank"">Enhancement 1</a></h2>
+  <h2><a href="https://github.com/kayinge17/Enhancement-1-CS-300.git" target="_blank"">Enhancemen 1</a></h2>
 
   <p>
     This enhancement reimplements a C++ course management system in Python and improves
@@ -90,7 +90,7 @@
 </div>
 
   <div class="section">
-    <h2><a href="https://github.com/kayinge17/Enhancement-2-CS-320.git target="_blank"">Enhancement 2</a></h2>
+    <h2><a href="https://github.com/kayinge17/Enhancement-2-CS-320.git" target="_blank">Enhancement 2</a></h2>
   <p>
     For this enhancement, I expanded the original artifact by introducing a new
     record management structure that organizes related objects together. The
@@ -172,7 +172,7 @@
   </div>
 
   <div class="section">
-    <h2><a href="https://github.com/kayinge17/Enhancement-3-CS-320.git target="_blank"">Enhancement 3</a></h2>
+    <h2><a href="https://github.com/kayinge17/Enhancement-3-CS-320.git" target="_blank">Enhancement 3</a></h2>
    <p>
     This enhancement builds on both the original artifact and the work completed
     in Enhancement #2. For this third enhancement, I extended the grouped record
