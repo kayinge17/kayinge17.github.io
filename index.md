@@ -32,7 +32,7 @@
 
 <div class="row-three">
  <div class="section">
-  <h2><a href="https://github.com/kayinge17/Enhancement-1-CS-300.git" target="_blank"">Enhancemen 1</a></h2>
+  <h2><a href="https://github.com/kayinge17/Enhancement-1-CS-300.git" target="_blank"">Enhancement 1</a></h2>
 
   <p>
     This enhancement reimplements a C++ course management system in Python and improves
