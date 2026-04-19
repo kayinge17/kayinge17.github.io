@@ -2,6 +2,7 @@
 
 <div class="section top">
   <h1>Kayla Ingebretsen</h1>
+  <h2>BSCS Student</h2>
 </div>
 
   <div class="section">
