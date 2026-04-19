@@ -1,51 +1,112 @@
+<div class="no-js" lang="">
+
 <div class="section top">
   <h1>Kayla Ingebretsen</h1>
 </div>
 
-<div class="row-two">
+  <div class="section">
+  <p>
+    Throughout my time in the computer science program, I have developed a strong foundation in software development,
+    problem-solving, and system design. Completing my coursework and building my ePortfolio has allowed me to clearly
+    showcase both my technical skills and my growth as a developer. Each project contributed to shaping my professional
+    goals, particularly my interest in backend systems and my long-term goal of working in a compliance-focused role,
+    such as in healthcare environments where data security and integrity are critical. The program not only strengthened
+    my technical abilities but also helped me better understand the responsibility that comes with developing reliable
+    and secure systems.
+  </p>
+    <p>
+      One of the most valuable aspects of this program was learning how to collaborate and communicate effectively.
+      While the assignments were all completed individually, I gained experience considering multiple perspectives
+      through peer discussions and feedback. This helped me learn how to explain technical concepts in a way that is
+      understandable to different audiences, including non-technical stakeholders. For example, when designing
+      applications such as my weight-tracking app, I had to think beyond functionality alone and consider user needs,
+      usability, and clarity. Communicating systems behavior, design decisions, and potential limitations is essential
+      in professional environments, and this program reinforced that skill across multiple courses.
+    </p>
+    <p>
+      My experience with data structures and algorithms has significantly improved my ability to approach complex
+      problems. Projects such as the reinforcement learning Treasure Maze required me to think critically about how
+      algorithms learn from data and make decisions over time. Implementing a deep Q-learning model strengthened my
+      understanding of algorithmic logic, state management, and optimization. Additionally, my earlier work with
+      structured data, validation logic, and collections further reinforced the importance of efficiency and
+      organization when handling data in software systems. These experiences have prepared me to design solutions that
+      are both effective and scalable.
+    </p>
+    <p>
+      The program also provided extensive experience in software engineering and database development. In my mobile
+      application project, I designed and implemented a full system that included user authentication, data storage,
+      and user interaction through a structured interface. Building a SQLite database and troubleshooting data
+      persistence issues taught me how critical proper data management is to overall system functionality. In later
+      work, I expanded these concepts by integrating database solutions into larger system designs, reinforcing my
+      understanding of CRUD operations, data modeling, and backend architecture. These experiences demonstrated how
+      different components of a system must work together cohesively to deliver a reliable product.
+    </p>
+    <p>
+      Security has been a consistent and important theme throughout my coursework. I developed an understanding of
+      how vulnerabilities can impact systems and how to design with a security mindset from the beginning. Whether
+      considering secure login systems, protecting user data, or analyzing risks in networking protocols, I learned
+      to think proactively about potential threats. This is especially important given my career goal of working in
+      a compliance-focused environment, where maintaining data privacy and system integrity is essential. My coursework
+      has reinforced the idea that security is not an afterthought but a core component of all software design.
+    </p>
+    <p>
+      The artifacts included in my ePortfolio collectively demonstrate my growth and capabilities across multiple
+      areas of computer science. Each artifact highlights a different aspect of my skill set, from algorithm
+      development and machine learning concepts to user-centered application design and database integration.
+      Together, they represent my ability to take a project from an initial concept through design, development,
+      testing, and refinement. The progression of these artifacts also reflects how my skills have evolved, showing
+      increased complexity, stronger design decisions, and a more comprehensive understanding of software systems.
+    </p>
+    <p>
+      Overall, the ePortfolio represents not only the work I have completed but also the knowledge and skills I have
+      developed throughout the program. It demonstrates my readiness to enter the field of computer science with a
+      strong technical foundation, a problem-solving mindset, and a commitment to building secure and effective systems.
+    </p>
+
+</div>
+
   <div class="section">
     <h2><a href="https://github.com/kayinge17/CS-300-ABCU.git" target="_blank">Artifact 1</a></h2>
-    <p>This artifact was created in CS 300: Analysis and Design in July/August 2024. It is a C++ program that reads course data from a CSV file and allows users to interact with that data through a menu-driven interface. The program enables users to load course information, display all courses in sorted order using a binary search tree, and search for a specific course by its ID.
+    <p>This artifact was created in CS 300: Analysis and Design in July/August 2024. It is a C++ program that reads
+      course data from a CSV file and allows users to interact with that data through a menu-driven interface. The
+      program enables users to load course information, display all courses in sorted order using a binary search tree,
+      and search for a specific course by its ID.
     </p>
   </div>
 
   <div class="section">
-    <h2><a href="https://github.com/kayinge17/CS-320-C_A_T.git" target="_blank">Artifact 2</a></h2> 
+    <h2><a href="https://github.com/kayinge17/CS-320-C_A_T.git" target="_blank">Artifact 2</a></h2>
     <p>
-    The selected artifact was created in CS 320: Software Testing and Automation
-    in October of 2024. The original program was designed to create and manage
+    This artifact was created in CS 320: Software Testing and Automation
+    in October 2024. The original program was designed to create and manage
     three separate object types: contacts, appointments, and tasks. Each object
     type included validation logic and service classes to support CRUD operations.
     The artifact also included JUnit testing to verify object constraints and
     service methods functioned correctly.
   </p>
   </div>
-</div>
+
 
 <div class="section">
   <h2> <a href="https://youtu.be/xmt1T2k5ito" target="_blank">Code Review</a></h2>
   <p>
     This code review evaluates both artifacts, identifying strengths, weaknesses, and opportunities for improvement.
   </p>
- 
+
 </div>
 
-<div class="row-three">
+
  <div class="section">
   <h2><a href="https://github.com/kayinge17/Enhancement-1-CS-300.git" target="_blank">Enhancement 1</a></h2>
 
   <p>
     This enhancement reimplements a C++ course management system in Python and improves
     data validation, usability, and overall program structure.
-  </p>
-
-  <p>
-    
-  </p>
+  </p></div>
 
   <hr>
 
-  
+
   <h3>Justification and Improvements</h3>
   <p>
     I selected this artifact because it demonstrates my ability to design and implement
@@ -168,14 +229,13 @@
     redesigning its data structure and ensuring that changes were fully tested and reliable.
   </p>
 </div>
-    
-  </div>
+
 
   <div class="section">
     <h2><a href="https://github.com/kayinge17/Enhancement-3-CS-320.git" target="_blank">Enhancement 3</a></h2>
    <p>
     This enhancement builds on both the original artifact and the work completed
-    in Enhancement #2. For this third enhancement, I extended the grouped record
+    in Enhancement 2. For this third enhancement, I extended the grouped record
     structure by integrating a MongoDB database layer to persist the data. Instead
     of managing records only in memory, the program now stores them in a MongoDB
     “records” collection, where each document represents a contact and contains
@@ -187,7 +247,7 @@
     I selected this artifact because it demonstrates my ability to build on an
     existing software solution by applying data structures, backend logic,
     database integration, CRUD operations, and testing. It allowed me to extend
-    the improvements made in Enhancement #2 into a more realistic, database-supported design.
+    the improvements made in Enhancement 2 into a more realistic, database-supported design.
   </p>
 
   <p>
@@ -200,7 +260,7 @@
   <p>
     Each record is stored in a single “records” collection, where documents include
     contact data along with nested arrays for appointments and tasks. This reflects
-    the same grouped structure introduced in Enhancement #2, but now in a persistent
+    the same grouped structure introduced in Enhancement 2, but now in a persistent
     database format.
   </p>
 
@@ -255,12 +315,7 @@
     a full backend system, demonstrating growth in database integration, data modeling,
     and software design.
   </p>
-    
+
   </div>
 
-<div class="section bottom">
-  <h2>Professional Self-Assessment</h2>
-  <p>
-    TBD
-  </p>
-</div>
+
